@@ -1,5 +1,5 @@
 ---
-name: Leave a Question or Comment
+name: Questions or Comments
 about: Have something to say? Send it this'a way!
 title: "[Comment] "
 labels: Comment
